@@ -3,3 +3,11 @@ dist
 .idea
 coverage
 ++uil
+.idea/aws.xml
+.idea/clean_node_api.iml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
